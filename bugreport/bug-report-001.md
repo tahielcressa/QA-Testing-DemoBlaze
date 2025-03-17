@@ -18,3 +18,4 @@ The system allows the creation of the account and shows a "Sign up successful" m
 
 **Severity:** High  
 **Priority:** High
+
